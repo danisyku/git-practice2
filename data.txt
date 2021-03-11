@@ -1,0 +1,3 @@
+Name : Daniela
+Age : 30
+Favourite color: pink
