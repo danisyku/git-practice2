@@ -1,3 +1,3 @@
-Name : Daniela
+Name : Dani
 Age : 30
-Favourite color: pink
+Favourite color: orange
